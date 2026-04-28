@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169957941040",
+    "project_id": "lab4-nuratiqah-f69cb",
+    "storage_bucket": "lab4-nuratiqah-f69cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169957941040:android:0cdde6c9856961859db2f5",
+        "android_client_info": {
+          "package_name": "com.example.lab4_nuratiqah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDCsZilL75csX5a8ncE7u17IFIfM0KNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
